@@ -2,8 +2,8 @@
     "name": "accelerate/common",
     "type": "library",
     "description": "Common library for the Accelerate Salesforce client",
-    "keywords": [ "salesforce", "crm", "soap" ],
-    "homepage": "http://github.com/accelerate/common",
+    "keywords": [  "salesforce", "crm", "soap", "force.com", "web services" ],
+    "homepage": "http://accelerate.github.com",
     "license": "MIT",
     "authors": [
         {
